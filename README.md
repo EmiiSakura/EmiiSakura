@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EmiiSakura
+- 👋 Hi, I’m Emilly
 - 👀 I’m interested in learn codes and advance in my career
 - 🌱 I’m currently learning ...
 - 😄 Pronouns: She/her

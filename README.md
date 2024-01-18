@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @EmiiSakura
+- 👀 I’m interested in learn codes and advance in my career
+- 🌱 I’m currently learning ...
+- 😄 Pronouns: She/her
+- ⚡ Fun fact: Ada Lovelace was the world's first female programmer

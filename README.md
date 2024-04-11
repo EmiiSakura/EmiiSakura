@@ -2,7 +2,7 @@
 - 👀 I’m interested in learn codes and advance in my career
 - 🌱 I’m currently learning ...
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: Ada Lovelace was the world's first female programmer
+- trans girl ⚧︎
 
 ### Hello World , Eu sou a Emilly Vitória ^_^
 

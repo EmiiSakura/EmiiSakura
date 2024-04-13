@@ -2,7 +2,6 @@
 - 👀 I’m interested in learn codes and advance in my career
 - 🌱 I’m currently learning ...
 - 😄 Pronouns: She/her
-- trans girl ⚧︎
 
 ### Hello World , Eu sou a Emilly Vitória ^_^
 

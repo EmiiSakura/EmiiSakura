@@ -11,6 +11,10 @@
 ![Education](https://img.shields.io/badge/Khan%20Academy-14BF96?style=for-the-badge&logo=Khan%20Academy&logoColor=white)
 
 ### I'm 19 years old, Brazilian and since I was little I've been passionate about programming and I love cats. ^_^ . 
+<ul>
+  <li>I am currently a junior student who intends to advance my knowledge.</li>
+</ul>
+
 
 ![tumblr_nklu9pSYDf1u6itwco1_500](https://github.com/EmiiSakura/EmillyVit-ria/assets/157049269/fbd398f9-4458-4801-883c-3cc8c5c32295)
 
@@ -24,7 +28,3 @@
 
 <img align="center" alt="SQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 <img align="center" alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
-
-<ul>
-  <li>I am currently a junior student who intends to advance my knowledge.</li>
-</ul>

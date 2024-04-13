@@ -2,7 +2,8 @@
 - 👀 I’m interested in learn codes and advance in my career
 - 🌱 I’m currently learning ...
 - 😄 Pronouns: She/her
-- trans girl ⚧︎
+<img src="![euzinha](https://github.com/EmiiSakura/EmiiSakura/assets/157049269/d72361ad-7418-44c3-bf15-bcddb650ed8b)">
+
 
 ### Hello World , Eu sou a Emilly Vitória ^_^
 
@@ -25,3 +26,7 @@
 
 <img align="center" alt="SQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 <img align="center" alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
+
+<ul>
+  <li>I am currently a junior student who intends to advance my knowledge.</li>
+</ul>

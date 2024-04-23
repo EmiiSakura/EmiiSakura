@@ -9,8 +9,6 @@
 ![Education](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=UdemylogoColor=white)
 ![Education](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)
 ![Education](https://img.shields.io/badge/Khan%20Academy-14BF96?style=for-the-badge&logo=Khan%20Academy&logoColor=white)
-
-### I'm 19 years old, Brazilian and since I was little I've been passionate about programming and I love cats. ^_^ . 
 <ul>
   <li>I am currently a junior student who intends to advance my knowledge.</li>
 </ul>

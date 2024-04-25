@@ -13,8 +13,8 @@
   <li>I am currently a junior student who intends to advance my knowledge.</li>
 </ul>
 
+![gif](https://github.com/EmiiSakura/EmiiSakura/assets/157049269/909f51c8-c1d5-4a5f-a08e-0207a49450e8)
 
-![tumblr_nklu9pSYDf1u6itwco1_500](https://github.com/EmiiSakura/EmillyVit-ria/assets/157049269/fbd398f9-4458-4801-883c-3cc8c5c32295)
 
 ### 🖥️ Tecnologies and Tools 🖥️
 

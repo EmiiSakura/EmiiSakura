@@ -3,7 +3,7 @@
 -  I’m currently learning ...
 -  Pronouns: She/her
 
-### Hello World ^_^
+### 私わエミリです　^-^
 
 ### 📚Education and Learning📚
 ![Education](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=UdemylogoColor=white)

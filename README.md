@@ -13,6 +13,17 @@
   <li>I am currently a junior student who intends to advance my knowledge.</li>
 </ul>
 
+<ul>
+<p>websites</p>
+<ol>
+https://hellokittygame.netlify.app/
+
+  
+</ol>
+
+  
+</ul>
+
 ![gif](https://github.com/EmiiSakura/EmiiSakura/assets/157049269/909f51c8-c1d5-4a5f-a08e-0207a49450e8)
 
 

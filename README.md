@@ -12,13 +12,6 @@
 <ul>
   <li>I am currently a junior student who intends to advance my knowledge.</li>
 </ul>
-
-<ul>
-<p>websites</p>
-<ol>
-https://hellokittygame.netlify.app/
-
-  
 </ol>
 
   
